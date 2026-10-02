@@ -14,8 +14,9 @@ current priority:
 2. **Retention** — getting the second, seventh and thirtieth session.
 3. **Monetization** — turning engaged players into revenue (IAP, rewarded ads).
 
-Do not spend money or effort amplifying a game that leaks players. Fix
-retention before buying outreach (see the gates in `studio/strategy.md`).
+Small test budgets that buy a game its first ~100–300 players are fine;
+growth spend waits until a game proves it keeps players (see the gates and
+"Getting the first players" in `studio/strategy.md`).
 
 ## Where things live
 

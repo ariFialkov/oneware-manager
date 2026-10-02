@@ -70,7 +70,36 @@ we have 4+ live games.
 - **Kill / park** → stop promoting; keep it live as a cross-promo source
   unless reviews are hurting the studio's rating.
 
-**No money is spent on a game that hasn't reached "double down."**
+**Two kinds of spend:**
+- **Test budget (any game, ~$25–75):** buys the first ~100–300 players
+  so the gates can be judged at all. Small Apple Search Ads campaigns on
+  exact-match long-tail keywords, cheaper countries first. It pays for
+  information, not growth.
+- **Growth budget (double-down games only):** paid influencers, larger
+  Search Ads, anything meant to scale.
+
+## Getting the first players (the cold start)
+
+Posting to an existing 100-follower account reaches ~100 people who
+weren't looking for a game. The channels below reach strangers instead.
+Per game, aim for 100–300 installs in the first 14 days. That's enough
+for a rough D1 read, not a precise one.
+
+| Channel | Why it works with zero followers | Cost |
+|---|---|---|
+| TikTok / Shorts / Reels, 1–3 clips per day | The feed shows new accounts' posts to non-followers; reach depends on the hook, not follower count | Time |
+| Reddit + Discord (r/iosgaming, r/playmygame, r/IndieGaming, genre subs) | People there are looking for new games, and they leave feedback | Time |
+| Public TestFlight link 1–2 weeks before launch | Playtesters before launch; fixes problems before they hurt ratings | Free |
+| Pre-order (up to 180 days before release) | Clips posted before launch turn into installs on day 0, which helps search rank | Free |
+| ASO on long-tail keywords | New apps get a short search boost; ranking for niche terms is achievable | Free |
+| Apple featuring nomination (App Store Connect) for every release | Small chance, big payoff | Free |
+| In-App Events | Extra search and Today-tab surfaces | Free |
+| Gifted creator outreach (free game, credit, a custom item) to nano creators (1k–10k followers) | Small creators reply and post when the game fits their content | Free |
+| Cross-promo from our own games | Grows with every release | Free |
+| Apple Search Ads test budget | Buys a guaranteed sample when nothing else has worked yet | ~$25–75 |
+
+Expect most clips to flop. Judge a game's content after ~20 posts,
+not after 2.
 
 ## Monetization stance
 

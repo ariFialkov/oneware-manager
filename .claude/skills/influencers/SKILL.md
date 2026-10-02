@@ -5,9 +5,11 @@ description: Plan and run a low-budget micro-influencer campaign for a Oneware g
 
 # Micro-influencer campaign
 
-**Gate:** only for games at "double down" in `studio/strategy.md`
-(D1 > 35%). If the game isn't there, say so and recommend the retention
-fix instead. Paying to send players into a game that loses them is wasted money.
+**Gate:** *gifted* outreach (free game, credit, custom in-game item) to
+nano creators (1k–10k followers) is fine for any game, from launch day.
+*Paid* deals only for games at "double down" in `studio/strategy.md`
+(D1 > 35%). Otherwise, recommend the retention fix first, because paying
+to send players into a game that loses them is wasted money.
 
 1. **Targeting**: TikTok/Shorts creators with 5k–100k followers in the
    game's niche (mobile games, cozy games, puzzle, "satisfying" content).
