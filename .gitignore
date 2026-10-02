@@ -2,3 +2,4 @@ data/
 *.p8
 .env
 __pycache__/
+clips/

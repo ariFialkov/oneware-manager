@@ -10,3 +10,8 @@ Append newest at the bottom. Format: date — decision — why — metric to wat
   ~100–300 players) and growth budget (double-down games only); added the
   cold-start channel plan. — Without a first sample, the retention gates
   can't be judged. — Installs in each game's first 14 days.
+- **2026-10-02** — Started the clip network: branded Oneware accounts on
+  TikTok/YouTube/Instagram, fed by the owner's raw clips turned into
+  multiple variants by `tools/clips.py`. — Short-form video is our main
+  free reach and needs volume. Accounts stay openly branded to avoid
+  platform bans and deceptive endorsement. — Posts/week, views/post, hook ranking.

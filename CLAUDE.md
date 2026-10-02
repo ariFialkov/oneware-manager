@@ -29,6 +29,8 @@ growth spend waits until a game proves it keeps players (see the gates and
 | `games/<slug>/game.md` | Per-game sheet: pitch, store listing, metrics history, experiments |
 | `marketing/` | Content calendar, influencer tracker, campaign plans |
 | `reports/` | Dated analytics reports (`YYYY-MM-DD-<scope>.md`) |
+| `marketing/clip-network.md` | Clip network initiative: accounts, volume, rules |
+| `tools/clips.py` | Clip engine: bank, vertical variants, posting plan, report |
 | `tools/asc.py` | App Store Connect API client (apps, builds, sales, reviews, analytics) |
 | `data/` | Raw API downloads (gitignored) |
 
@@ -43,6 +45,7 @@ growth spend waits until a game proves it keeps players (see the gates and
 | `/aso <slug>` | Keywords, title/subtitle, screenshots brief for a game |
 | `/social <slug or topic>` | Platform-ready posts + a content calendar |
 | `/influencers <slug>` | Micro-influencer shortlist criteria, outreach copy, tracker |
+| `/clips` | Clip network: ingest clips, render variants, plan posts, learn from views |
 | `/feedback [slug]` | Synthesize App Store reviews + player feedback into fixes |
 
 ## App Store Connect access
@@ -63,6 +66,8 @@ from the Linux cloud container; use a macOS CI runner or the owner's Mac.
 - **Confirm first** before anything public or irreversible: submitting for
   review, releasing a version, posting to social, emailing creators,
   changing prices, or spending money. Draft it, show it, wait for a yes.
+- Social accounts are always openly Oneware's. No fake-fan or fake-independent
+  accounts, no accounts engaging with each other, no bought engagement.
 - Never commit secrets (`.p8` keys, tokens). `data/` and `*.p8` are gitignored.
 - Every recommendation names the metric it should move and how we'll know.
   Mark benchmark numbers as rough industry ranges, not facts about our games.
